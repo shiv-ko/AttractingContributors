@@ -22,3 +22,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 ↓↓↓↓↓↓↓↓ADD YOUR FAVORITE TEAM BELOW / 好きなサッカーチームを教えて下さい↓↓↓↓↓↓ 
 - Sport Club Corinthians Paulista
+- Fc Bayern Munich
