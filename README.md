@@ -17,3 +17,4 @@ Goal - I want contributors to help me list some favorite Japanese Anime Characte
 6. キラ・ヤマト (機動戦士ガンダムSEEDシード)
 7. ミカサ（Atack on titan）
 8. 美樹　沙耶香（魔法少女まどか☆マギカ）
+9. Asuka Langley (Evangelion series)
