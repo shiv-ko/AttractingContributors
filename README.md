@@ -15,3 +15,4 @@ Goal - I want contributors to help me list some favorite Japanese Anime Characte
 4. Itachi Uchiha, (Naruto)
 5. DIO, ザ・ワールド (ジョジョの奇妙な冒険スターダストクルセイダース)
 6. キラ・ヤマト (機動戦士ガンダムSEEDシード)
+7. ミカサ（Atack on titan）
