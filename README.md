@@ -20,3 +20,4 @@ Goal - I want contributors to help me list some favorite Japanese Anime Characte
 9. Asuka Langley (Evangelion series)
 10. Hange Zoë (Attack on Titan)
 11. Anya Forger(SPY×FAMILY)
+12. キルア（HUNTER×HUNTER)
