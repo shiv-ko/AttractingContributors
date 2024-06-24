@@ -18,3 +18,4 @@ Goal - I want contributors to help me list some favorite Japanese Anime Characte
 7. ミカサ（Atack on titan）
 8. 美樹　沙耶香（魔法少女まどか☆マギカ）
 9. Asuka Langley (Evangelion series)
+10. Hange Zoë (Attack on Titan)
