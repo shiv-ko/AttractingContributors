@@ -21,6 +21,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # Favorite lunch
+katsudon
 ramen
 boiled chicken breast
 Fried Rice
