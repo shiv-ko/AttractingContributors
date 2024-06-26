@@ -23,6 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # Favorite lunch
 katsudon
 ramen
+Akashiyaki
 oyakodon
 SuShi
 so-men
