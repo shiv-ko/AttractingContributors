@@ -26,6 +26,7 @@ ramen
 oyakodon
 katsudon
 ramen
+rice ball
 Akashiyaki
 oyakodon
 SuShi
