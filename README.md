@@ -23,3 +23,9 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # Favorite lunch
 ramen
 boiled chicken breast
+Fried Rice
+rice
+doria
+anpan
+walnut
+onigiri
